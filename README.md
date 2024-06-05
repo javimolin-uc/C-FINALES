@@ -12,7 +12,7 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 #### DIMENSIÓN 2: Educación
 | Indicador | Técnica/instrumento  |
 |-----------|----------------------|
-| i1        | t1                   |
+| Entregar información correctamente        | contraste entre gráficos y sus colores                   |
 | i2        | t2                   |
 | i3        | t3                   |
 
@@ -33,6 +33,6 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 #### DIMENSIÓN 5: Problemas futuros
 | Indicador | Técnica/instrumento  |
 |-----------|----------------------|
-| i1        | t1                   |
+| Carreras a las que no se les permite entrar        | Gráfico de áreas/carreras                   |
 | i2        | t2                   |
 | i3        | t3                   |
