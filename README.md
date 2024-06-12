@@ -49,7 +49,7 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 
 > $\color{lightblue}{\textrm{Red Nimetaga 3 kõige suuremat pilveteenuste pakkujat}}$  
 
-
+$ `\textcolor{teal}{ \text{ Eq.(3-5) in the main text} } `$
 
 ### ANTECEDENTES:
 
