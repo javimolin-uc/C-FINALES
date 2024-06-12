@@ -30,12 +30,13 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 | Ejemplos de como ven las cosas en comparación al resto        | Fotos/ilustraciones con filtros de color aplicados                   |
 | i3        | t3                   |
 
-#### DIMENSIÓN 5: Redes y socialización
+#### DIMENSIÓN 5: Personas y proyectos de impacto
 | Indicador | Técnica/instrumento  |
 |-----------|----------------------|
 | Daltónicos famosos y sus aportes        | Trajetas tipo carnet que se cambien como ruleta                   |
-| i2        | t2                   |
-| i3        | t3                   |
+| Diccionario de colores        | Funcionamiento de como funciona el braile de colores                   |
+| Tecnología de impacto        | Filtro de redes sociales                   |
+
 
 ### ANTECEDENTES:
 
