@@ -40,21 +40,21 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 ### ANTECEDENTES:
 
 https://multimedia.scmp.com/infographics/culture/article/3241304/hanfu-part-1/
-**Positivo:** Empezas contextualizando y dando información de lo general a lo específico.
-**Negativo:** No se puede hacer scroll mientras se ve la linea historia.
+- **Positivo:** Empezas contextualizando y dando información de lo general a lo específico.
+- **Negativo:** No se puede hacer scroll mientras se ve la linea historia.
 
 https://www.reuters.com/graphics/INDONESIA-VOLCANO/LIGHTNING/jnpwxdrazvw/
-**Positivo:** representación visual de como ocurren elementos "scientificos"
-**Negativo:** Quedan muy superficial la información
+- **Positivo:** representación visual de como ocurren elementos "scientificos"
+- **Negativo:** Quedan muy superficial la información
 
 https://www.pictoline.com/projects/VivosSeLosLlevaron?dir=next&bg=d31c04
-**Positivo:** Estilo gráfico consistente (tanto como cuando hay cómic como cuando no)
-**Negativo:** Formato de visualización horizontal y separada.
+- **Positivo:** Estilo gráfico consistente (tanto como cuando hay cómic como cuando no)
+- **Negativo:** Formato de visualización horizontal y separada.
 
 https://www.reuters.com/graphics/HEALTH-BIRDFLU/lgpdndoyrpo/
-**Positivo:** Utilización de umna paleta de colores y gráficas consistentes. Harto uso de ilustración
-**Negativo:** Muy estático, falta dinamismo/movimiento para no aburrirse leyendo, mucho texto.
+- **Positivo:** Utilización de umna paleta de colores y gráficas consistentes. Harto uso de ilustración
+- **Negativo:** Muy estático, falta dinamismo/movimiento para no aburrirse leyendo, mucho texto.
 
 https://multimedia.scmp.com/infographics/news/hong-kong/article/3250772/unauthorised-structures/index.html
-**Positivo:** División entre temas con el uso de colores y su conexión de manera ilustrativa.
-**Negativo:** La demora en la carga de los elementos.
+- **Positivo:** División entre temas con el uso de colores y su conexión de manera ilustrativa.
+- **Negativo:** La demora en la carga de los elementos.
