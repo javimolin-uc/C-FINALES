@@ -51,6 +51,8 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 
 $ `\textcolor{teal}{ \text{ Eq.(3-5) in the main text} } `$
 
+
+
 > [POSITIVO]: SDJNKNSADAKJNSDAS
 
 
