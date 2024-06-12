@@ -4,6 +4,8 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 
 ###### Nav bar: Información | Propuesta
 
+------
+
 ### Información
 
 #### DIMENSIÓN 1: Trayectria 
