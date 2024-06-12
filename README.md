@@ -5,7 +5,7 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 #### DIMENSIÓN 1: Trayectria
 | Indicador | Técnica/instrumento  |
 |-----------|----------------------|
-| Descubrimiento del daltonismo        | t2                   |
+| Descubrimiento del daltonismo        | Linea de tiempo                   |
 | i2        | t2                   |
 | i3        | t3                   |
 
