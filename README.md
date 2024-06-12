@@ -43,8 +43,11 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 | Diccionario de colores        | Funcionamiento de como funciona el braile de colores                   |
 | Tecnología de impacto        | Filtro de redes sociales                   |
 
-> [!NOTE] Positivo
+> [!NOTE] 
 > Highlights information that users should take into account, even when skimming.
+$\color{lightblue}{\textrm{Red Nimetaga 3 kõige suuremat pilveteenuste pakkujat}}$  
+
+
 
 ### ANTECEDENTES:
 
