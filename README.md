@@ -47,11 +47,11 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 ### ANTECEDENTES:
 
 https://multimedia.scmp.com/infographics/culture/article/3241304/hanfu-part-1/
- > - ```Positivo: ``` Empezas contextualizando y dando información de lo general a lo específico.
+- **Positivo:** Empezas contextualizando y dando información de lo general a lo específico.
 - **Negativo:** No se puede hacer scroll mientras se ve la linea historia.
 
 https://www.reuters.com/graphics/INDONESIA-VOLCANO/LIGHTNING/jnpwxdrazvw/
-+ **Positivo:** representación visual de como ocurren elementos "scientificos"
++ **Positivo:** Representación visual de como ocurren elementos "scientificos"
 - **Negativo:** Quedan muy superficial la información
 
 https://www.pictoline.com/projects/VivosSeLosLlevaron?dir=next&bg=d31c04
