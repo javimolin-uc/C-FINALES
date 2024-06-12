@@ -45,7 +45,9 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 
 > [!NOTE] 
 > Highlights information that users should take into account, even when skimming.
-$\color{lightblue}{\textrm{Red Nimetaga 3 kõige suuremat pilveteenuste pakkujat}}$  
+
+
+> $\color{lightblue}{\textrm{Red Nimetaga 3 kõige suuremat pilveteenuste pakkujat}}$  
 
 
 
