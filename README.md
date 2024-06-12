@@ -44,6 +44,9 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 | Tecnología de impacto        | Filtro de redes sociales                   |
 
 $\color{green}{test}$
+[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
+![](https://img.shields.io/static/v1?label=&message=Ааи&color=green)
+ $\colorbox{green}{{\color{white}{This\ is\ a\ Big\ Title}}}$
 
 ### ANTECEDENTES:
 
