@@ -23,11 +23,11 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 | i2        | t2                   |
 | i3        | t3                   |
 
-#### DIMENSIÓN 4: Problemas futuros
+#### DIMENSIÓN 4: Problemas 
 | Indicador | Técnica/instrumento  |
 |-----------|----------------------|
 | Carreras a las que no se les permite entrar        | Gráfico de áreas/carreras                   |
-| i2        | t2                   |
+| Ejemplos de como ven las cosas en comparación al resto        | Fotos/ilustraciones con filtros de color aplicados                   |
 | i3        | t3                   |
 
 #### DIMENSIÓN 5: Redes y socialización
