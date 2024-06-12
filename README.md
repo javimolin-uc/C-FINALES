@@ -53,7 +53,7 @@ $ `\textcolor{teal}{ \text{ Eq.(3-5) in the main text} } `$
 
 
 
-> [POSITIVO]: SDJNKNSADAKJNSDAS
+
 
 
 ### ANTECEDENTES:
@@ -77,3 +77,7 @@ https://www.reuters.com/graphics/HEALTH-BIRDFLU/lgpdndoyrpo/
 https://multimedia.scmp.com/infographics/news/hong-kong/article/3250772/unauthorised-structures/index.html
 + **Positivo:** División entre temas con el uso de colores y su conexión de manera ilustrativa.
 - **Negativo:** La demora en la carga de los elementos.
+
+
+
+> [POSITIVO]: SDJNKNSADAKJNSDAS
