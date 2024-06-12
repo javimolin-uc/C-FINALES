@@ -23,16 +23,18 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 | i2        | t2                   |
 | i3        | t3                   |
 
-#### DIMENSIÓN 4: Redes y socialización
-| Indicador | Técnica/instrumento  |
-|-----------|----------------------|
-| i1        | t1                   |
-| i2        | t2                   |
-| i3        | t3                   |
-
-#### DIMENSIÓN 5: Problemas futuros
+#### DIMENSIÓN 4: Problemas futuros
 | Indicador | Técnica/instrumento  |
 |-----------|----------------------|
 | Carreras a las que no se les permite entrar        | Gráfico de áreas/carreras                   |
 | i2        | t2                   |
 | i3        | t3                   |
+
+#### DIMENSIÓN 5: Redes y socialización
+| Indicador | Técnica/instrumento  |
+|-----------|----------------------|
+| Daltónicos famosos y sus aportes        | t1                   |
+| i2        | t2                   |
+| i3        | t3                   |
+
+
