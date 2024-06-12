@@ -67,4 +67,6 @@ https://multimedia.scmp.com/infographics/news/hong-kong/article/3250772/unauthor
 - **Negativo:** La demora en la carga de los elementos.
 
 
-
+<div class="ghd-alert ghd-alert-success ghd-spotlight-success">
+<p><strong>Sugerencia</strong>: Para preservar su formato en una lista, asegúrese de dejar una sangría de ocho espacios en los bloques de código no delimitados.</p>
+</div>
