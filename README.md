@@ -37,7 +37,7 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 | i2        | t2                   |
 | i3        | t3                   |
 
-###ANTECEDENTES:
+### ANTECEDENTES:
 
 https://multimedia.scmp.com/infographics/culture/article/3241304/hanfu-part-1/
 **Positivo:** Empezas contextualizando y dando información de lo general a lo específico.
