@@ -43,7 +43,13 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 | Diccionario de colores        | Funcionamiento de como funciona el braile de colores                   |
 | Tecnología de impacto        | Filtro de redes sociales                   |
 
-r_rojo
+color = incluir("colores")
+imprimirf("Hola en verde: "..color.verde.."hola"..color.reset.."\n") // imprimimos 'hola' en color verde y reseteamos el color.
+imprimirf("Color azul con formato: "..color.simp("im.azul").."hola"..color.reset.."\n") // imprimimos 'hola' con formato, eligiendo i: italicas y m: marcado
+imprimirf("Tabla de colores:\n")
+color.colores() // imprime la tabla de colores
+imprimirf("Violeta con formato: " ..color.simp("im.128").."hola"..color.reset.."\n") // imprimimos texto violeta, el color/número '128' lo tomamos de la tabla de colores, argumentos: 'm': marcado, 'i': italicas
+imprimirf("Violeta normal: "..color.color(128).."hola"..color.reset.."\n") // imprimimos el color violeta '128' de la tabla de colores
 
 ### ANTECEDENTES:
 
