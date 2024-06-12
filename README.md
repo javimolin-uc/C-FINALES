@@ -4,6 +4,8 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 
 ###### Nav bar: Información | Propuesta
 
+### Información
+
 #### DIMENSIÓN 1: Trayectria 
 | Indicador | Técnica/instrumento  |
 |-----------|----------------------|
@@ -38,6 +40,11 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 | Daltónicos famosos y sus aportes        | Trajetas tipo carnet que se cambien como ruleta                   |
 | Diccionario de colores        | Funcionamiento de como funciona el braile de colores                   |
 | Tecnología de impacto        | Filtro de redes sociales                   |
+
+<div style="padding: 10px; border: 1px solid #4caf50; border-left: 5px solid #4caf50; background-color: #e8f5e9;">
+  <strong>Éxito:</strong> Esta es una alerta de éxito.
+</div>
+
 
 
 ### ANTECEDENTES:
