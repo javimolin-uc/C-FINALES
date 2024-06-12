@@ -33,7 +33,7 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 #### DIMENSIÓN 5: Redes y socialización
 | Indicador | Técnica/instrumento  |
 |-----------|----------------------|
-| Daltónicos famosos y sus aportes        | t1                   |
+| Daltónicos famosos y sus aportes        | Trajetas tipo carnet que se cambien como ruleta                   |
 | i2        | t2                   |
 | i3        | t3                   |
 
