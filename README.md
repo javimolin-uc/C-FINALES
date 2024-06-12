@@ -45,6 +45,9 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 
 $\color{green}{test}$
 # ${This\ is\ a\ {\color{red}Big}}\ Title$
+Sugerencia: Para preservar su formato en una lista, asegúrese de dejar una sangría de ocho espacios en los bloques de código no delimitados.
+
+
 
 ### ANTECEDENTES:
 
