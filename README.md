@@ -6,7 +6,7 @@ El daltonismo es una afección en la cual no se pueden ver los colores de manera
 
 ------
 
-### Información
+### **Información**
 
 #### DIMENSIÓN 1: Trayectria 
 | Indicador | Técnica/instrumento  |
